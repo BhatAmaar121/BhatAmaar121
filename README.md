@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zakir</h1>
+<h1 align="center">Hi 👋, I'm Aamar</h1>
 <h3 align="center">a passionate Android app developer currently pursuing my Bachelor of Computer Applications (BCA).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmrzakir&label=Profile%20views&color=0e75b6&style=flat" alt="kmrzakir" /> </p>
